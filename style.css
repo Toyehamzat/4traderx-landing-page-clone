@@ -294,7 +294,6 @@ ul li a:hover {
   justify-content: space-between;
   display: flex;
   gap: 40px;
-  margin-bottom: 30px;
   width: 100%;
   height: 725px;
 }
@@ -318,7 +317,7 @@ img.global-picture{
   text-align: left;
   font-weight: 600;
   color: rgb(36, 36, 36);
-  margin-bottom: 30px;
+  margin-bottom: px;
 }
 .fifthsection-sub3{
   align-items: center;
