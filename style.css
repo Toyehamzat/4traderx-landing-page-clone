@@ -447,16 +447,16 @@ img.global-picture{
 }
 .one-icon{
   text-align: center;
-  width: 60px;
-  height: 60px;
+  width: 50px;
+  height: 50px;
   background-image: url(./images/one-svgrepo-com.svg);
   background-size: contain;
   background-repeat: no-repeat;
 }
 .two-icon{
   text-align: center;
-  width: 60px;
-  height:60px;
+  width: 50px;
+  height:50px;
   background-image: url(./images/two.svg);
   background-size: contain;
   background-repeat: no-repeat;
@@ -464,8 +464,8 @@ img.global-picture{
 .three-icon{
   margin-bottom: 10px;
   text-align: center;
-  width: 60px;
-  height: 60px;
+  width: 50px;
+  height: 50px;
   background-image: url(./images/three-svgrepo-com.svg);
   background-size: contain;
   background-repeat: no-repeat;
