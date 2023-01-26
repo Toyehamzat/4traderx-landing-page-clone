@@ -88,18 +88,18 @@ ul li a:hover {
   align-items: center;
   justify-content: space-between;
   gap: 10px;
-  height: 500px;
+  height: 450px;
   margin-bottom: 70px;
   width: 100%;
 }
 .firstsection-sub1{
-  width: 600px;
+  width: 670px;
   height: 100%;
 }
 
 .financial{
   padding-top: 45px;
-  font-size: 2.9rem;
+  font-size: 2.4rem;
   font-weight: bolder;
   padding-bottom: 20px;
   width: 100%;
@@ -109,7 +109,7 @@ ul li a:hover {
 }
 .free{
   color: rgb(104, 104, 104);
-  font-size: 1.6rem;
+  font-size: 1.3rem;
   width: 100%;
   padding-bottom: 20px;
 }
@@ -135,6 +135,7 @@ ul li a:hover {
   font-size: 13px;
   color: rgb(137, 137, 137);
   padding-bottom: 20px;
+  width: 100%;
 }
 .download{
   margin-left: 10px;
@@ -155,7 +156,7 @@ ul li a:hover {
 }
 .container{
   height: 100%;
-  width: 750px;
+  width: 700px;
   border: none;
   outline: none;
   border-radius: 10px;
@@ -166,10 +167,11 @@ ul li a:hover {
 }
 .swiper{
   width: 100%;
-  height: fit-content;
+  height: 100%;
 }
 .swiper-slide img{
   width: 100%;
+  height: 100%;
 }
 .swiper .swiper-button-prev, .swiper .swiper-button-next{
   color: rgba(247, 249, 250, 0.933) ;
