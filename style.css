@@ -164,6 +164,7 @@ ul li a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
+  border-radius: 10px;
 }
 .swiper{
   border-radius: 10px;
