@@ -90,6 +90,7 @@ ul li a:hover {
   gap: 10px;
   height: 500px;
   margin-bottom: 70px;
+  width: 100%;
 }
 .firstsection-sub1{
   width: 600px;
@@ -187,6 +188,7 @@ ul li a:hover {
   height: 300px;
   margin-top: 30px;
   margin-bottom: 40px;
+  width: 100%;
 }
 .secondsectioncontent{
   text-align: center;
@@ -228,6 +230,8 @@ ul li a:hover {
   display: flex;
   flex-direction: column;
   padding: 30px;
+  width: 100%;
+  height: 550px;
 }
 .fourthsection-sub1{
   align-items: center;
@@ -284,11 +288,13 @@ ul li a:hover {
   justify-content: space-between;
   display: flex;
   gap: 40px;
-  margin-bottom: 110px;
+  margin-bottom: 30px;
+  width: 100%;
+  height: 725px;
 }
 .fifthsection-sub1{
-  width: 700px;
-  height: 700px;
+
+  height: 100%;
 
 }
 .fifthsection-sub2{
@@ -296,8 +302,9 @@ ul li a:hover {
   height: 450px;
 
 }
-.global-picutre{
+img.global-picture{
   width: 100%;
+  height: 100%;
 }
 
 .global-usd{
@@ -326,7 +333,9 @@ ul li a:hover {
   display: flex;
   flex-direction: row-reverse;
   gap: 40px;
-  margin-bottom:110px ;
+
+  width: 100%;
+  height: 725px;
 }
 .sixthsection-sub1{
   width: 700px;
@@ -334,7 +343,7 @@ ul li a:hover {
 
 }
 .sixthsection-sub2{
-  width: 700px;
+  width: 738.5px;
   height: 450px;
 
 }
@@ -355,6 +364,7 @@ ul li a:hover {
 }
 .sixthsection-sub4{
   font-size: 21px;
+  width: 100%;
   color: rgb(104, 104, 104);
 }
 .seventhsection{
@@ -396,6 +406,7 @@ ul li a:hover {
   flex-direction: column;
   gap: 40px;
   margin-bottom: 45px;
+  width: 100%;
 }
 .eigthsection-sub1{
   color:rgb(36, 36, 36) ;
@@ -418,7 +429,7 @@ ul li a:hover {
   padding: 30px;
   border-radius: 10px;
   width: 440px;
-  height: 250px;
+  height: 100%px;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   padding-bottom: 45px;
   color: rgb(104, 104, 104);
@@ -436,16 +447,16 @@ ul li a:hover {
 }
 .one-icon{
   text-align: center;
-  width: 50px;
-  height: 50px;
+  width: 60px;
+  height: 60px;
   background-image: url(./images/one-svgrepo-com.svg);
   background-size: contain;
   background-repeat: no-repeat;
 }
 .two-icon{
   text-align: center;
-  width: 50px;
-  height: 50px;
+  width: 60px;
+  height:60px;
   background-image: url(./images/two.svg);
   background-size: contain;
   background-repeat: no-repeat;
@@ -453,8 +464,8 @@ ul li a:hover {
 .three-icon{
   margin-bottom: 10px;
   text-align: center;
-  width: 50px;
-  height: 50px;
+  width: 60px;
+  height: 60px;
   background-image: url(./images/three-svgrepo-com.svg);
   background-size: contain;
   background-repeat: no-repeat;
@@ -468,6 +479,7 @@ ul li a:hover {
   justify-content: center;
   display: flex;
   flex-direction: column;
+  width: 100%;
 
 }
 .ninethsection-sub1{
@@ -482,12 +494,13 @@ ul li a:hover {
   display: flex;
   justify-content:space-between;
   padding: 20px;
+  width: 100%;
 }
 .ninethsection-sub3{
   width: 400px;
   text-align:center;
   align-items: center;
-  justify-content: center;
+  justify-content: start;
   display: flex;
   flex-direction: column;
 }
