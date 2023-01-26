@@ -519,11 +519,17 @@ img.global-picture{
   color: rgb(104, 104, 104);
   font-size: 18;
 }
+#icons{
+  justify-content: space-between;
+  height: 100%;
+}
 .icon-1{
   
-  width: 190px;
-  height: 100px;
-  margin-left: 40px;
+  width: 100px;
+  height: 90px;
+  justify-content: center;
+  margin-left: 30px;
+
 }
 
 .some{
@@ -553,6 +559,7 @@ img.global-picture{
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   border-radius: 10px;
   height: 100%;
+  width: 100%;
 }
 .twelvesection{
   align-items: center;
